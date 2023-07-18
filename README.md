@@ -4,7 +4,9 @@ Scripts to generate xarray/rioxarray/xcube datacubes (.zarr). It creates a geo-r
 ![Alt text](./VI.png?raw=true "Sentinel-2 Vegetation indices")
 
 Similar results can be obtained for SAR imagery as shown below for the VV backscatter of the Sentinel-1 (SAR) imagery:
+
 ![Alt text](./SAR_C11.png?raw=true "Sentinel-1 SAR_C11")
 
 SAR RGB composites can easily be generated too:
+
 ![Alt text](./SAR_RGB.png?raw=true "Sentinel-1 RGB")
